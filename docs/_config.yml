@@ -1,0 +1,19 @@
+
+url: "https://adilima.github.io"
+baseurl: "/wuxiapedia"
+
+title: W3.CSS Workflow for Jekyll GitHub Pages
+author:
+  name: FX. Adi Lima
+  email: adi7598@gmail.com
+
+description: >
+  Membuat workflow sederhana untuk halaman web github, 
+  hanya menggunakan W3CSS.
+
+plugins:
+  - jekyll-seo-tag
+
+sass:
+  sass_dir: _sass
+  style: compressed

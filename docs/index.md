@@ -1,7 +1,9 @@
 ---
-layout: base
-title: Jekyll Tutorials
+layout: w3-base
+title: Wuxiapedia
 ---
+
+# Wuxiapedia Home
 
 Kita bisa mulai menulis di sini, misalnya untuk halaman `index` kita akan menulis sebuah `Prolog` untuk cerita kita.
 
